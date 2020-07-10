@@ -1,0 +1,17 @@
+{
+    "name": "UniBuildReportWriter",
+    "references": [
+        "GUID:3a8b22218454c5a4091ede7d769f4639"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
